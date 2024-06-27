@@ -1,0 +1,12 @@
+### python ###
+__pycache__
+
+### macOS ###
+# General
+.DS_Store
+
+### dotenv ###
+.env
+
+### Database ###
+db/db-store
